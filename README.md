@@ -13,42 +13,18 @@ _327 TILs and counting..._
 
 ### Categories
 
-* [Clojure](#clojure)
 * [Devops](#devops)
 * [Git](#git)
 * [Go](#go)
-* [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
 * [PostgreSQL](#postgresql)
-* [Rails](#rails)
 * [Ruby](#ruby)
 * [tmux](#tmux)
 * [Unix](#unix)
 * [Vim](#vim)
 
 ---
-
-### Clojure
-
-- [Aggregation Using merge-with](clojure/aggregation-using-merge-with.md)
-- [Argument Requirements For A Function](clojure/argument-requirements-for-a-function.md)
-- [Evaluate One Liners With lein-exec](clojure/evaluate-one-liners-with-lein-exec.md)
-- [Expanding Macros](clojure/expanding-macros.md)
-- [Get The Value Of An Environment Variable](clojure/get-the-value-of-an-environment-variable.md)
-- [Load A File Into The REPL](clojure/load-a-file-into-the-repl.md)
-- [Mapping With An Index](clojure/mapping-with-an-index.md)
-- [Open JavaDocs](clojure/open-javadocs.md)
-- [Pretty Print The Last Thing](clojure/pretty-print-the-last-thing.md)
-- [Quick Clojure Docs](clojure/quick-clojure-docs.md)
-- [Reductions](clojure/reductions.md)
-- [Set Max Heap Size](clojure/set-max-heap-size.md)
-- [Specify the Directory of a Shell Command](clojure/specify-the-directory-of-a-shell-command.md)
-- [Splitting On Whitespace](clojure/splitting-on-whitespace.md)
-- [Swap Two Items in a Vector](clojure/swap-two-items-in-a-vector.md)
-- [Try A Clojure Project In The REPL](clojure/try-a-clojure-project-in-the-repl.md)
-- [Type of Anything](clojure/type-of-anything.md)
-- [When Overflow Is Desired](clojure/when-overflow-is-desired.md)
 
 ### Devops
 
@@ -105,17 +81,6 @@ _327 TILs and counting..._
 - [Not So Random](go/not-so-random.md)
 - [Replace The Current Process With An External Command](go/replace-the-current-process-with-an-external-command.md)
 - [Sleep For A Duration](go/sleep-for-a-duration.md)
-
-### JavaScript
-
-- [Character Codes from Keyboard Listeners](javascript/character-codes-from-keyboard-listeners.md)
-- [Create An Array Containing 1 To N](javascript/create-an-array-containing-1-to-n.md)
-- [Enable ES7 Transforms With react-rails](javascript/enable-es7-transforms-with-react-rails.md)
-- [Random Cannot Be Seeded](javascript/random-cannot-be-seeded.md)
-- [Splat Arguments To A Function](javascript/splat-arguments-to-a-function.md)
-- [Throttling A Function Call](javascript/throttling-a-function-call.md)
-- [Transforming ES6 and JSX With Babel 6](javascript/transforming-es6-and-jsx-with-babel-6.md)
-- [Truthiness of Integer Arrays](javascript/truthiness-of-integer-arrays.md)
 
 ### Linux
 
@@ -189,29 +154,6 @@ _327 TILs and counting..._
 - [Using Intervals To Offset Time](postgres/using-intervals-to-offset-time.md)
 - [Who Is The Current User](postgres/who-is-the-current-user.md)
 - [Word Count for a Column](postgres/word-count-for-a-column.md)
-
-### Rails
-
-- [All or Nothing Database Transactions](rails/all-or-nothing-database-transactions.md)
-- [Attribute Getter without the Recursion](rails/attribute-getter-without-the-recursion.md)
-- [Attribute Was](rails/attribute-was.md)
-- [Autosave False On ActiveRecord Associations](rails/autosave-false-on-activerecord-associations.md)
-- [Capybara Page Status Code](rails/capybara-page-status-code.md)
-- [Code Statistics For An Application](rails/code-statistics-for-an-application.md)
-- [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
-- [Creating Records of Has_One Associations](rails/creating-records-of-has-one-associations.md)
-- [Hash Slicing](rails/hash-slicing.md)
-- [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
-- [Migrating Up Down Up](rails/migrating-up-down-up.md)
-- [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
-- [Pretend Generations](rails/pretend-generations.md)
-- [Retrieve An Object If It Exists](rails/retrieve-an-object-if-it-exists.md)
-- [Select A Select By Selector](rails/select-a-select-by-selector.md)
-- [Select Value For SQL Counts](rails/select-value-for-sql-counts.md)
-- [Set Schema Search Path](rails/set-schema-search-path.md)
-- [Show Pending Migrations](rails/show-pending-migrations.md)
-- [Show Rails Models With Pry](rails/show-rails-models-with-pry.md)
-- [Show Rails Routes With Pry](rails/show-rails-routes-with-pry.md)
 
 ### Ruby
 
