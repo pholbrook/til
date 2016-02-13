@@ -1,13 +1,8 @@
 # TIL
 
 > Today I Learned
-
-A collection of concise write-ups on small things I learn day to day across a
-variety of languages and technologies. These are things that don't really
-warrant a full blog post. These are mostly things I learn by pairing with
-smart people at [Hashrocket](http://hashrocket.com/).
-
-_327 TILs and counting..._
+Forked from Josh Branchaud's [TIL](https://github.com/jbranchaud/til)
+repo. I've removed some categories that I don't care about, and I'll probably add my own categories as time goes on.
 
 ---
 
@@ -341,7 +336,7 @@ _327 TILs and counting..._
 
 ## About
 
-I shamelessly stole this idea from
+Josh Branchaud shamelessly stole this idea from
 [thoughtbot/til](https://github.com/thoughtbot/til).
 
 ## Other TIL Collections
@@ -353,6 +348,7 @@ I shamelessly stole this idea from
 ## License
 
 &copy; 2015-2016 Josh Branchaud
+Some portions &copy; 2016 Paul Holbrook
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
